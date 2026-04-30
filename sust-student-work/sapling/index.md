@@ -3,8 +3,8 @@ title: Mark Robertson - Loose Leaf Farm
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/sapling-card.png
-thumbnail: images/sapling-card.png
+header-image: images/loose-leaf-farm.png
+thumbnail: images/loose-leaf-farm.png
 summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
 header-position: 0px
@@ -29,7 +29,7 @@ The text below includes both explanations and filler content to show how these c
 class="right"
 width="48%"
 caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/mvh-history-stays.jpg"
+image-path="images/loose-leaf-farm.png"
 %}
 
 Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
