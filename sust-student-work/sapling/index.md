@@ -3,7 +3,7 @@ title: Mark Robertson - Loose Leaf Farm
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
-header-image: images/loose-leaf-farm.png
+header-image: images/white-text-loose-leaf-farm.png
 thumbnail: images/loose-leaf-farm.png
 summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
 header-title:
