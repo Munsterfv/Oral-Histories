@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id
 Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
 
 {% assign images =
-"images/mvh-menu.jpg,
+"images/loose-leaf-artwork.png,
 images/mvh-history-stays.jpg,
 images/mvh-room-cost.jpg" | split: ','
 %}
