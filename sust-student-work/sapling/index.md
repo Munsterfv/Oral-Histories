@@ -76,14 +76,6 @@ He used that knowledge to develop his own approach to farming over time. He beca
 
 
 ## Biodiversity and Soil Health
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
-
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Block Quotes for Primary Sources
 Another major focus in Mark’s farming philosophy is biodiversity and soil health. He explained that he tries to work with natural systems instead of controlling everything through chemicals or industrial farming methods. To him, biodiversity means supporting insects, microbes, and healthy soil ecosystems that all work together naturally.
 
 Rather than trying to simplify nature, he believes farming should strengthen it.
@@ -106,28 +98,3 @@ This quote reflects the way Mark approaches farming. He believes that healthy fa
 Mark Robertson’s story shows the experiences of someone who entered farming from a nontraditional path and built his knowledge through science, experimentation, and experience. His background in the Navy and biology shaped the way he thinks about agriculture, while his focus on biodiversity and soil health reflects his commitment to sustainable farming practices.
 
 Through their work in Albuquerque’s North Valley, Mark and Sarah continue contributing to the local food system while building a farming approach centered on environmental care and community connection.
-
-
----
-
-## Ready to Create Your Own?
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, come back here to build your ScrollStory.
-
-**Already have a Xanthan site?** To make your own Sapling essay:
-
-1. **Duplicate this folder** (`scrollstories/sapling/`) and rename it for your topic
-2. **Replace the text** with your own content, keeping the structure
-3. **Add your own images** to the `images/` folder
-4. **Update the front matter** at the top (title, author, date, header image, etc.)
-5. **Customize components** - Add or remove scrollyboxes, carousels, and asides as needed
-
-**What makes Sapling different from Seedling?**
-- Background scrollyboxes for immersive text overlays
-- Image carousels for comparing multiple images
-- More sophisticated visual storytelling
-- All Seedling components still work
-
-Ready for even more? Check out the [Forest template](../forest/) for advanced features like background switching and side-scrolling.
-
-{% include scrollybox/auto-scroll.html speed=1.5 %}
