@@ -25,7 +25,7 @@ Mark Robertson is a 49 year old veteran of the United States Navy who has been f
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
+caption="Mark Robertson holding freshly harvested garlic at one of the farming spaces he and his wife Sarah manage in Albuquerque’s North Valley."
 image-path="images/happy-mark.png"
 %}
 
