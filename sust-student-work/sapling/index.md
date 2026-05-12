@@ -48,7 +48,7 @@ One thing that stood out during Mark’s interview was the way he talked about f
 He especially talked about the experience of selling at farmers markets after long work weeks on the farm. There were days when he and Sarah felt drained and did not feel like waking up early to prepare vegetables and interact with customers. However, once they arrived and started talking to people, it reminded them why they continued doing the work.
 
 
-## Pull Quotes Still Work
+## Independence and Identity
 {% include typography/aside.html class="left" text="
 “I think it is just part of who I am… I don’t want to work for somebody else. Plus, farming is very rewarding.”" %}
 
@@ -64,8 +64,8 @@ He used that knowledge to develop his own approach to farming over time. He beca
 
 {% assign images =
 "images/mark-sarah.png,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
+images/produce-loose-leaf.png,
+images/farm-loose-leaf.png" | split: ','
 %}
 
 {% include images/carousel.html
