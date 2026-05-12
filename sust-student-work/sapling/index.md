@@ -16,15 +16,12 @@ tags:
     - nature
 ---
 
-# A Sapling Essay
-his essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+# Introduction
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
-
-The text below includes both explanations and filler content to show how these components work in practice.
+Mark Robertson is a 49 year old veteran of the United States Navy who has been farming in Albuquerque’s North Valley for the past 10 years. Alongside his wife, Sarah, Mark runs two small farming spaces where they grow produce for CSA members, farmers markets, and local restaurants such as Campo at Los Poblanos and Farm & Table. Even though Mark did not grow up farming, his background in engineering and biology has shaped the way he farms today. A lot of what he knows came from reading, experimenting, and learning through experience out in the field.
 
 
-## Building on Seedling Basics
+## From the Navy to Farming
 {% include images/figure.html
 class="right"
 width="48%"
@@ -32,32 +29,23 @@ caption="Right-aligned images still work exactly like Seedling. You already know
 image-path="images/happy-mark.png"
 %}
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
+Before becoming a farmer, Mark served in the Navy during 9/11. After leaving the military, he used the GI Bill to return to school. At first, he planned to continue in engineering because of the electrical engineering training he had received while serving. Eventually, he switched to biology because he became more interested in environmental systems and how living organisms work together.
 
-[^note1]: Footnotes continue to work exactly as before. All your Seedling skills carry forward.
+While studying biology, Mark realized that many careers connected to the field would keep him indoors working in labs. He wanted something different. He wanted work that kept him outside and allowed him to do something more hands on, which eventually led him to farming.
 
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
 
 {% include scrollybox/bg.html
   image-path="images/loose-leaf-scroll.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
+  box-content=' “After figuring out that farming was… kind of soul-enlivening… you’re going to be happier, a lot happier.”'
 %}
 
 
-## What Just Happened?
-That was a **scrollybox**—text that appears in a semi-transparent box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
+## Farming and Community
+TOne thing that stood out during Mark’s interview was the way he talked about farming and how much it changed his life. Even though the work is exhausting and unpredictable at times, he explained that it gave him a sense of purpose that he did not feel in other career paths.
 
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
-
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
+He especially talked about the experience of selling at farmers markets after long work weeks on the farm. There were days when he and Sarah felt drained and did not feel like waking up early to prepare vegetables and interact with customers. However, once they arrived and started talking to people, it reminded them why they continued doing the work.
 
 
 ## Pull Quotes Still Work
