@@ -84,34 +84,29 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 
 
 ## Block Quotes for Primary Sources
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est.
+Another major focus in Mark’s farming philosophy is biodiversity and soil health. He explained that he tries to work with natural systems instead of controlling everything through chemicals or industrial farming methods. To him, biodiversity means supporting insects, microbes, and healthy soil ecosystems that all work together naturally.
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+Rather than trying to simplify nature, he believes farming should strengthen it.
 
-Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
+> “Biodiversity… is basically trying to keep nature intact and bring in more.”
 
+This approach influences the way he manages his farm. Mark believes that healthier ecosystems lead to healthier crops and stronger soil over time. Instead of focusing only on maximizing production in the short term, he thinks about long term sustainability and how the land can continue producing food years into the future.
 
-## What You've Learned in Sapling
-If you can create a Sapling essay, you can:
+Soil health was another topic Mark returned to multiple times during the interview. He talked about soil as something living that needs constant care and consideration. Building healthy soil is not something that happens quickly, and Mark emphasizes that there are no shortcuts to this process.
 
-- **Use scrollyboxes** to overlay text on full-screen background images
-- **Control pacing** with scroll space parameters
-- **Add image carousels** for comparing multiple related images
-- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
-- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
+He believes many modern farming methods focus too much on quick results rather than long term health.
 
-**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
+> “To build soil over time is the only way to do it. There’s no cheats.”
+
+This quote reflects the way Mark approaches farming. He believes that healthy farming takes time, consistency, and attention to the land. Instead of looking for fast solutions, he focuses on practices that slowly improve the soil and create stronger growing systems over time.
 
 
-## Bibliography
+## Conclusion
 
-- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+- Mark Robertson’s story shows the experiences of someone who entered farming from a nontraditional path and built his knowledge through science, experimentation, and experience. His background in the Navy and biology shaped the way he thinks about agriculture, while his focus on biodiversity and soil health reflects his commitment to sustainable farming practices.
 
-- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+Through their work in Albuquerque’s North Valley, Mark and Sarah continue contributing to the local food system while building a farming approach centered on environmental care and community connection.
 
-- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
-
-- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
 
 ---
 
