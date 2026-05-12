@@ -103,7 +103,7 @@ This quote reflects the way Mark approaches farming. He believes that healthy fa
 
 ## Conclusion
 
-- Mark Robertson’s story shows the experiences of someone who entered farming from a nontraditional path and built his knowledge through science, experimentation, and experience. His background in the Navy and biology shaped the way he thinks about agriculture, while his focus on biodiversity and soil health reflects his commitment to sustainable farming practices.
+Mark Robertson’s story shows the experiences of someone who entered farming from a nontraditional path and built his knowledge through science, experimentation, and experience. His background in the Navy and biology shaped the way he thinks about agriculture, while his focus on biodiversity and soil health reflects his commitment to sustainable farming practices.
 
 Through their work in Albuquerque’s North Valley, Mark and Sarah continue contributing to the local food system while building a farming approach centered on environmental care and community connection.
 
