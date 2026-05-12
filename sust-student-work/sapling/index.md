@@ -43,28 +43,27 @@ While studying biology, Mark realized that many careers connected to the field w
 
 
 ## Farming and Community
-TOne thing that stood out during Mark’s interview was the way he talked about farming and how much it changed his life. Even though the work is exhausting and unpredictable at times, he explained that it gave him a sense of purpose that he did not feel in other career paths.
+One thing that stood out during Mark’s interview was the way he talked about farming and how much it changed his life. Even though the work is exhausting and unpredictable at times, he explained that it gave him a sense of purpose that he did not feel in other career paths.
 
 He especially talked about the experience of selling at farmers markets after long work weeks on the farm. There were days when he and Sarah felt drained and did not feel like waking up early to prepare vegetables and interact with customers. However, once they arrived and started talking to people, it reminded them why they continued doing the work.
 
 
 ## Pull Quotes Still Work
 {% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
+“I think it is just part of who I am… I don’t want to work for somebody else. Plus, farming is very rewarding.”" %}
 
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
+Another part of farming that mattered to Mark was the independence that came with it. During the interview, he explained that he never really wanted to work for somebody else. Farming gave him the opportunity to build something of his own, even though it came with financial risk and uncertainty.
 
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
+Instead of following someone else’s schedule or goals, he was able to shape his own path and make decisions based on his own values.
 
 
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
+## Learning Through Experience
+Mark and Sarah are first generation farmers, so they had to figure out much of the process on their own. Instead of learning from generations of family farming knowledge, Mark depended heavily on research and trial and error. His background in biology helped him better understand soil systems, microbes, insects, and plant health.
+
+He used that knowledge to develop his own approach to farming over time. He became focused on regenerative and biodiversity based farming methods instead of relying heavily on chemicals or shortcuts.
 
 {% assign images =
-"images/loose-leaf-artwork.png,
+"images/mark-sarah.png,
 images/mvh-history-stays.jpg,
 images/mvh-room-cost.jpg" | split: ','
 %}
