@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 header-image: images/white-text-loose-leaf-farm.png
 thumbnail: images/loose-leaf-farm.png
-summary: Our Sapling essay uses a few more features than our Seed essay, including the simplest scrolly box.
+summary: Loose Leaf Farm is a small farm in Albuquerque’s North Valley operated by Mark and Sarah Robertson. Their work focuses on biodiversity, soil health, and providing fresh produce to local restaurants, CSA members, and farmers markets.
 header-title:
 header-position: 0px
 toc-section: second
