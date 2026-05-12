@@ -38,7 +38,7 @@ While studying biology, Mark realized that many careers connected to the field w
   image-path="images/loose-leaf-scroll.png"
   above-box-space = "100vh"
   below-box-space = "80vh"
-  box-content=' “After figuring out that farming was… kind of soul-enlivening… you’re going to be happier, a lot happier.”'
+  box-content=' “After figuring out that farming was… kind of soul-enlivening… you’re going to be happier, a lot happier.” - Mark Robertson'
 %}
 
 
