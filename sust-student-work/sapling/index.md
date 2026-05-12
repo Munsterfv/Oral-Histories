@@ -60,7 +60,6 @@ Instead of following someone else’s schedule or goals, he was able to shape hi
 ## Learning Through Experience
 Mark and Sarah are first generation farmers, so they had to figure out much of the process on their own. Instead of learning from generations of family farming knowledge, Mark depended heavily on research and trial and error. His background in biology helped him better understand soil systems, microbes, insects, and plant health.
 
-He used that knowledge to develop his own approach to farming over time. He became focused on regenerative and biodiversity based farming methods instead of relying heavily on chemicals or shortcuts.
 
 {% assign images =
 "images/mark-sarah.png,
@@ -73,12 +72,10 @@ id="first"
 images=images
 %}
 
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
+He used that knowledge to develop his own approach to farming over time. He became focused on regenerative and biodiversity based farming methods instead of relying heavily on chemicals or shortcuts.
 
 
-## Larger Images
+## Biodiversity and Soil Health
 {% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
